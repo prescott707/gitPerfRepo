@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1286" lt="563" ts="1441187122233" s="true" lb="261 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="10032" ng="2" na="2">
+  <httpSample t="563" lt="563" ts="1441187122233" s="true" lb="http://linkedin.com/" rc="301" rm="Redirect" tn="Thread Group 1-1" dt="text" by="273" ng="2" na="2"/>
+  <httpSample t="704" lt="569" ts="1441187122815" s="true" lb="https://www.linkedin.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9759" ng="2" na="2"/>
+</httpSample>
+<sample t="1286" lt="563" ts="1441187121260" s="true" lb="261 /" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="10032" ng="2" na="2"/>
+<sample t="0" lt="0" ts="1441187123565" s="true" lb="262 /" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="" dt="" by="0" ng="0" na="0"/>
+<httpSample t="1352" lt="523" ts="1441187122273" s="true" lb="261 /" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="10031" ng="2" na="2">
+  <httpSample t="523" lt="523" ts="1441187122273" s="true" lb="http://linkedin.com/" rc="301" rm="Redirect" tn="Thread Group 1-2" dt="text" by="273" ng="2" na="2"/>
+  <httpSample t="814" lt="576" ts="1441187122811" s="true" lb="https://www.linkedin.com/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="9758" ng="2" na="2"/>
+</httpSample>
+<sample t="1352" lt="523" ts="1441187122260" s="true" lb="261 /" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="10031" ng="2" na="2"/>
+<sample t="0" lt="0" ts="1441187123637" s="true" lb="262 /" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="" dt="" by="0" ng="0" na="0"/>
+<httpSample t="227" lt="138" ts="1441187123638" s="true" lb="264 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1127" ng="2" na="2">
+  <httpSample t="138" lt="138" ts="1441187123638" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="547" ng="2" na="2"/>
+  <httpSample t="86" lt="86" ts="1441187123779" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="227" lt="138" ts="1441187123638" s="true" lb="264 /csp/dtag" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="1127" ng="2" na="2"/>
+<httpSample t="327" lt="130" ts="1441187123570" s="true" lb="264 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1127" ng="2" na="2">
+  <httpSample t="130" lt="130" ts="1441187123570" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="547" ng="2" na="2"/>
+  <httpSample t="196" lt="196" ts="1441187123701" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="327" lt="130" ts="1441187123569" s="true" lb="264 /csp/dtag" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1127" ng="2" na="2"/>
+<httpSample t="399" lt="393" ts="1441187123870" s="true" lb="270 /uas/login-submit" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="11185" ng="2" na="2"/>
+<httpSample t="384" lt="378" ts="1441187123905" s="true" lb="270 /uas/login-submit" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11188" ng="2" na="2"/>
+<httpSample t="234" lt="124" ts="1441187124277" s="true" lb="273 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1093" ng="2" na="2">
+  <httpSample t="124" lt="124" ts="1441187124277" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="513" ng="2" na="2"/>
+  <httpSample t="109" lt="109" ts="1441187124402" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="633" lt="517" ts="1441187123869" s="true" lb="270 /uas/login-submit" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="12278" ng="2" na="2"/>
+<httpSample t="237" lt="126" ts="1441187124298" s="true" lb="273 /csp/dtag" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="898" ng="2" na="2">
+  <httpSample t="126" lt="126" ts="1441187124298" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="513" ng="2" na="2"/>
+  <httpSample t="110" lt="0" ts="1441187124425" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="385" ng="2" na="2"/>
+</httpSample>
+<sample t="621" lt="504" ts="1441187123904" s="true" lb="270 /uas/login-submit" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="12086" ng="2" na="2"/>
+<httpSample t="691" lt="129" ts="1441187124514" s="true" lb="274 /profile/view" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="10670" ng="2" na="2">
+  <httpSample t="129" lt="129" ts="1441187124514" s="true" lb="https://www.linkedin.com/profile/view?id=155475244&amp;trk=nav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="1485" ng="2" na="2"/>
+  <httpSample t="134" lt="134" ts="1441187124650" s="true" lb="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="1530" ng="2" na="2"/>
+  <httpSample t="415" lt="413" ts="1441187124790" s="true" lb="https://www.linkedin.com/start/join?trk=login_reg_redirect&amp;session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="7655" ng="2" na="2"/>
+</httpSample>
+<sample t="691" lt="129" ts="1441187124514" s="true" lb="274 /profile/view" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="10670" ng="2" na="2"/>
+<httpSample t="673" lt="137" ts="1441187124540" s="true" lb="274 /profile/view" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="10705" ng="2" na="2">
+  <httpSample t="137" lt="137" ts="1441187124540" s="true" lb="https://www.linkedin.com/profile/view?id=155475244&amp;trk=nav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="1485" ng="2" na="2"/>
+  <httpSample t="129" lt="129" ts="1441187124690" s="true" lb="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="1530" ng="2" na="2"/>
+  <httpSample t="383" lt="374" ts="1441187124830" s="true" lb="https://www.linkedin.com/start/join?trk=login_reg_redirect&amp;session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7690" ng="2" na="2"/>
+</httpSample>
+<sample t="673" lt="137" ts="1441187124539" s="true" lb="274 /profile/view" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="10705" ng="2" na="2"/>
+<httpSample t="227" lt="219" ts="1441187125209" s="true" lb="275 /uas/logout" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="9841" ng="2" na="2"/>
+<httpSample t="331" lt="245" ts="1441187125224" s="true" lb="275 /uas/logout" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9841" ng="2" na="2"/>
+<httpSample t="131" lt="131" ts="1441187125463" s="true" lb="276 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1431" ng="2" na="2"/>
+<httpSample t="130" lt="130" ts="1441187125567" s="true" lb="276 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1431" ng="2" na="2"/>
+<httpSample t="231" lt="122" ts="1441187125604" s="true" lb="277 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1093" ng="2" na="2">
+  <httpSample t="122" lt="122" ts="1441187125604" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="513" ng="2" na="2"/>
+  <httpSample t="109" lt="109" ts="1441187125726" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="589" lt="472" ts="1441187125208" s="true" lb="275 /uas/logout" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="12365" ng="2" na="2"/>
+<httpSample t="211" lt="124" ts="1441187125706" s="true" lb="277 /csp/dtag" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="898" ng="2" na="2">
+  <httpSample t="124" lt="124" ts="1441187125706" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="513" ng="2" na="2"/>
+  <httpSample t="87" lt="0" ts="1441187125830" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="385" ng="2" na="2"/>
+</httpSample>
+<sample t="672" lt="499" ts="1441187125223" s="true" lb="275 /uas/logout" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="12170" ng="2" na="2"/>
+<httpSample t="400" lt="155" ts="1441187125838" s="true" lb="261 /" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="10030" ng="2" na="2">
+  <httpSample t="155" lt="155" ts="1441187125838" s="true" lb="http://linkedin.com/" rc="301" rm="Redirect" tn="Thread Group 1-2" dt="text" by="273" ng="2" na="2"/>
+  <httpSample t="245" lt="135" ts="1441187125993" s="true" lb="https://www.linkedin.com/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="9757" ng="2" na="2"/>
+</httpSample>
+<sample t="400" lt="155" ts="1441187125838" s="true" lb="261 /" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="10030" ng="2" na="2"/>
+<httpSample t="451" lt="156" ts="1441187125931" s="true" lb="261 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="10032" ng="2" na="2">
+  <httpSample t="156" lt="156" ts="1441187125931" s="true" lb="http://linkedin.com/" rc="301" rm="Redirect" tn="Thread Group 1-1" dt="text" by="273" ng="2" na="2"/>
+  <httpSample t="295" lt="140" ts="1441187126087" s="true" lb="https://www.linkedin.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9759" ng="2" na="2"/>
+</httpSample>
+<sample t="451" lt="156" ts="1441187125930" s="true" lb="261 /" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="10032" ng="2" na="2"/>
+<httpSample t="249" lt="140" ts="1441187126245" s="true" lb="264 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1127" ng="2" na="2">
+  <httpSample t="140" lt="140" ts="1441187126245" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="547" ng="2" na="2"/>
+  <httpSample t="107" lt="107" ts="1441187126387" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="249" lt="140" ts="1441187126245" s="true" lb="264 /csp/dtag" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="1127" ng="2" na="2"/>
+<httpSample t="253" lt="140" ts="1441187126389" s="true" lb="264 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1127" ng="2" na="2">
+  <httpSample t="140" lt="140" ts="1441187126389" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="547" ng="2" na="2"/>
+  <httpSample t="112" lt="112" ts="1441187126530" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="253" lt="140" ts="1441187126388" s="true" lb="264 /csp/dtag" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1127" ng="2" na="2"/>
+<httpSample t="324" lt="223" ts="1441187126497" s="true" lb="270 /uas/login-submit" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="11228" ng="2" na="2"/>
+<httpSample t="303" lt="206" ts="1441187126651" s="true" lb="270 /uas/login-submit" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11191" ng="2" na="2"/>
+<httpSample t="236" lt="124" ts="1441187126829" s="true" lb="273 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1093" ng="2" na="2">
+  <httpSample t="124" lt="124" ts="1441187126829" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="513" ng="2" na="2"/>
+  <httpSample t="111" lt="111" ts="1441187126954" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="560" lt="347" ts="1441187126497" s="true" lb="270 /uas/login-submit" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="12321" ng="2" na="2"/>
+<httpSample t="237" lt="125" ts="1441187126961" s="true" lb="273 /csp/dtag" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="898" ng="2" na="2">
+  <httpSample t="125" lt="125" ts="1441187126961" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="513" ng="2" na="2"/>
+  <httpSample t="112" lt="0" ts="1441187127086" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="304" rm="Not Modified" tn="Thread Group 1-1" dt="" by="385" ng="2" na="2"/>
+</httpSample>
+<sample t="540" lt="331" ts="1441187126650" s="true" lb="270 /uas/login-submit" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="12089" ng="2" na="2"/>
+<httpSample t="511" lt="129" ts="1441187127068" s="true" lb="274 /profile/view" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="10668" ng="2" na="2">
+  <httpSample t="129" lt="129" ts="1441187127068" s="true" lb="https://www.linkedin.com/profile/view?id=155475244&amp;trk=nav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="1485" ng="2" na="2"/>
+  <httpSample t="128" lt="128" ts="1441187127201" s="true" lb="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="1530" ng="2" na="2"/>
+  <httpSample t="237" lt="235" ts="1441187127342" s="true" lb="https://www.linkedin.com/start/join?trk=login_reg_redirect&amp;session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="7653" ng="2" na="2"/>
+</httpSample>
+<sample t="511" lt="129" ts="1441187127067" s="true" lb="274 /profile/view" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="10668" ng="2" na="2"/>
+<httpSample t="627" lt="130" ts="1441187127205" s="true" lb="274 /profile/view" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="10668" ng="2" na="2">
+  <httpSample t="130" lt="130" ts="1441187127205" s="true" lb="https://www.linkedin.com/profile/view?id=155475244&amp;trk=nav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="1485" ng="2" na="2"/>
+  <httpSample t="132" lt="132" ts="1441187127347" s="true" lb="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="1530" ng="2" na="2"/>
+  <httpSample t="349" lt="238" ts="1441187127483" s="true" lb="https://www.linkedin.com/start/join?trk=login_reg_redirect&amp;session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7653" ng="2" na="2"/>
+</httpSample>
+<sample t="627" lt="130" ts="1441187127204" s="true" lb="274 /profile/view" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="10668" ng="2" na="2"/>
+<httpSample t="330" lt="225" ts="1441187127582" s="true" lb="275 /uas/logout" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="9882" ng="2" na="2"/>
+<httpSample t="127" lt="127" ts="1441187127917" s="true" lb="276 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1431" ng="2" na="2"/>
+<httpSample t="323" lt="218" ts="1441187127834" s="true" lb="275 /uas/logout" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9849" ng="2" na="2"/>
+<httpSample t="232" lt="124" ts="1441187128048" s="true" lb="277 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="1093" ng="2" na="2">
+  <httpSample t="124" lt="124" ts="1441187128048" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-2" dt="" by="513" ng="2" na="2"/>
+  <httpSample t="107" lt="106" ts="1441187128173" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-2" dt="bin" by="580" ng="2" na="2"/>
+</httpSample>
+<sample t="689" lt="476" ts="1441187127581" s="true" lb="275 /uas/logout" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="12406" ng="2" na="2"/>
+<httpSample t="128" lt="128" ts="1441187128162" s="true" lb="276 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1431" ng="1" na="1"/>
+<httpSample t="576" lt="463" ts="1441187128292" s="true" lb="277 /csp/dtag" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="1093" ng="1" na="1">
+  <httpSample t="463" lt="463" ts="1441187128292" s="true" lb="https://www.linkedin.com/csp/dtag?p=10" rc="302" rm="Found" tn="Thread Group 1-1" dt="" by="513" ng="1" na="1"/>
+  <httpSample t="111" lt="111" ts="1441187128757" s="true" lb="https://www.linkedin.com/img/spacer.gif" rc="200" rm="OK" tn="Thread Group 1-1" dt="bin" by="580" ng="1" na="1"/>
+</httpSample>
+<sample t="1027" lt="809" ts="1441187127834" s="true" lb="275 /uas/logout" rc="200" rm="Number of samples in transaction : 3, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="12373" ng="1" na="1"/>
+
+</testResults>

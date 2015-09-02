@@ -1,0 +1,54 @@
+1441186966266,1214,261 /,200,OK,Thread Group 1-1,text,true,10029,2,2,428
+1441186966473,999,261 /,200,OK,Thread Group 1-2,text,true,10029,2,2,307
+1441186966457,999,261 /,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,10029,2,2,307
+1441186967511,0,262 /,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,0,0,0,0
+1441186965459,1214,261 /,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,10029,2,2,428
+1441186967525,0,262 /,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,0,0,0,0
+1441186967527,292,264 /csp/dtag,200,OK,Thread Group 1-1,bin,true,1127,2,2,190
+1441186967526,292,264 /csp/dtag,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,1127,2,2,190
+1441186967513,322,264 /csp/dtag,200,OK,Thread Group 1-2,bin,true,1127,2,2,199
+1441186967511,322,264 /csp/dtag,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,1127,2,2,199
+1441186967838,397,270 /uas/login-submit,200,OK,Thread Group 1-2,text,true,11233,2,2,380
+1441186967823,434,270 /uas/login-submit,200,OK,Thread Group 1-1,text,true,11182,2,2,403
+1441186968265,231,273 /csp/dtag,304,Not Modified,Thread Group 1-1,,true,898,2,2,134
+1441186967822,665,270 /uas/login-submit,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,12080,2,2,537
+1441186968243,262,273 /csp/dtag,200,OK,Thread Group 1-2,bin,true,1093,2,2,139
+1441186967837,659,270 /uas/login-submit,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,12326,2,2,519
+1441186968499,663,274 /profile/view,200,OK,Thread Group 1-1,text,true,10668,2,2,142
+1441186968499,663,274 /profile/view,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,10668,2,2,142
+1441186969178,382,275 /uas/logout,200,OK,Thread Group 1-1,text,true,9840,2,2,281
+1441186969568,164,276 /csp/dtag,200,OK,Thread Group 1-1,text,true,1431,2,2,164
+1441186968508,1423,274 /profile/view,200,OK,Thread Group 1-2,text,true,10671,2,2,152
+1441186968508,1423,274 /profile/view,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,10671,2,2,152
+1441186969734,268,277 /csp/dtag,200,OK,Thread Group 1-1,bin,true,1093,2,2,136
+1441186969174,814,275 /uas/logout,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,12364,2,2,581
+1441186969934,333,275 /uas/logout,200,OK,Thread Group 1-2,text,true,9882,2,2,245
+1441186970272,139,276 /csp/dtag,200,OK,Thread Group 1-2,text,true,1431,2,2,139
+1441186970005,465,261 /,200,OK,Thread Group 1-1,text,true,10031,2,2,155
+1441186970005,465,261 /,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,10031,2,2,155
+1441186970415,258,277 /csp/dtag,200,OK,Thread Group 1-2,bin,true,1093,2,2,137
+1441186969934,730,275 /uas/logout,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,12406,2,2,521
+1441186970481,255,264 /csp/dtag,200,OK,Thread Group 1-1,bin,true,1127,2,2,151
+1441186970480,255,264 /csp/dtag,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,1127,2,2,151
+1441186970741,329,270 /uas/login-submit,200,OK,Thread Group 1-1,text,true,11185,2,2,220
+1441186970676,460,261 /,200,OK,Thread Group 1-2,text,true,10032,2,2,153
+1441186970676,460,261 /,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,10032,2,2,153
+1441186971078,233,273 /csp/dtag,200,OK,Thread Group 1-1,bin,true,1093,2,2,137
+1441186970740,562,270 /uas/login-submit,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,12278,2,2,357
+1441186971144,276,264 /csp/dtag,200,OK,Thread Group 1-2,bin,true,1127,2,2,156
+1441186971143,276,264 /csp/dtag,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,1127,2,2,156
+1441186971422,331,270 /uas/login-submit,200,OK,Thread Group 1-2,text,true,11221,2,2,229
+1441186971317,650,274 /profile/view,200,OK,Thread Group 1-1,text,true,10671,2,2,139
+1441186971316,650,274 /profile/view,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,10671,2,2,139
+1441186971758,240,273 /csp/dtag,304,Not Modified,Thread Group 1-2,,true,898,2,2,143
+1441186971422,571,270 /uas/login-submit,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,12119,2,2,372
+1441186971970,342,275 /uas/logout,200,OK,Thread Group 1-1,text,true,9843,2,2,308
+1441186972319,153,276 /csp/dtag,200,OK,Thread Group 1-1,text,true,1431,2,2,153
+1441186972003,581,274 /profile/view,200,OK,Thread Group 1-2,text,true,10670,2,2,139
+1441186972002,581,274 /profile/view,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,10670,2,2,139
+1441186972474,255,277 /csp/dtag,200,OK,Thread Group 1-1,bin,true,1093,2,2,135
+1441186971970,750,275 /uas/logout,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,12367,2,2,596
+1441186972586,340,275 /uas/logout,200,OK,Thread Group 1-2,text,true,9887,1,1,235
+1441186972930,149,276 /csp/dtag,200,OK,Thread Group 1-2,text,true,1431,1,1,149
+1441186973080,437,277 /csp/dtag,304,Not Modified,Thread Group 1-2,,true,898,1,1,313
+1441186972586,926,275 /uas/logout,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,12216,1,1,697
