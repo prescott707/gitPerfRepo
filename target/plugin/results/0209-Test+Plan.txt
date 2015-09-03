@@ -1,39 +1,39 @@
 Group: Thread
-  time: 20150902T104522+0100 - 20150902T104527+0100
-  total duration:       7
+  time: 20150902T164736+0100 - 20150902T164742+0100
+  total duration:       8
   requests:             96
-  requests per second:  13
+  requests per second:  12
   response duration (ms)
-    min:                86
-    average:            352
-    max:                1352
-    standard deviation: 288
+    min:                88
+    average:            378
+    max:                1609
+    standard deviation: 326
     quantiles (ms)
-         10%      111
-         20%      127
-         30%      131
-         40%      211
-         50%      237
-         60%      324
-         70%      400
-         80%      560
-         90%      673
-         99%     1352
-       99.9%     1352
-      100.0%     1352 (max. value)
+         10%      124
+         20%      132
+         30%      140
+         40%      214
+         50%      265
+         60%      329
+         70%      453
+         80%      612
+         90%      715
+         99%     1609
+       99.9%     1609
+      100.0%     1609 (max. value)
   response size (bytes)
-    total:              466367
+    total:              468121
     min:                273
-    average:            4857
-    max:                12406
-    standard deviation: 4800
+    average:            4876
+    max:                12426
+    standard deviation: 4807
   response status codes
-    304:                   6 (6.25%)
-    200:                  66 (68.75%)
+    304:                   2 (2.08%)
+    200:                  70 (72.92%)
     301:                   4 (4.17%)
     302:                  20 (20.83%)
 Group: 
-  time: 20150902T104523+0100 - 20150902T104523+0100
+  time: 20150902T164738+0100 - 20150902T164738+0100
   total duration:       0
   requests:             2
   requests per second:  0

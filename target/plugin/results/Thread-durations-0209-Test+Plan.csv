@@ -1,16 +1,18 @@
 uri;count;total;min;average;max;standarddeviation;persecond;errors
-"https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";4;1384;237;346;415;67;1;0
-"277 /csp/dtag";4;1250;211;312;576;152;1;0
-"https://www.linkedin.com/profile/view?id=155475244&trk=nav_responsive_tab_profile_pic";4;525;129;131;137;3;1;0
-"275 /uas/logout";8;4188;227;523;1027;252;2;0
-"261 /";8;6978;400;872;1352;447;1;0
-"274 /profile/view";8;5004;511;625;691;70;2;0
-"276 /csp/dtag";4;516;127;129;131;1;1;0
-"264 /csp/dtag";8;2112;227;264;327;37;2;0
-"https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";4;523;128;130;134;2;1;0
-"270 /uas/login-submit";8;3764;303;470;633;124;2;0
-"273 /csp/dtag";4;944;234;236;237;1;1;0
-"http://linkedin.com/";4;1397;155;349;563;194;1;0
-"https://www.linkedin.com/csp/dtag?p=10";12;1880;122;156;463;92;2;0
-"https://www.linkedin.com/";4;2058;245;514;814;248;1;0
-"https://www.linkedin.com/img/spacer.gif";12;1357;86;113;196;26;2;0
+"https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";3;870;234;290;352;48;1;0
+"277 /csp/dtag";4;985;212;246;265;20;1;0
+"https://www.linkedin.com/profile/view?id=155475244&trk=nav_responsive_tab_profile_pic";4;582;126;145;192;26;1;0
+"275 /uas/logout";8;4020;253;502;719;191;2;0
+"261 /";8;8122;426;1015;1609;575;1;0
+"274 /profile/view";8;4874;528;609;662;50;2;0
+"276 /csp/dtag";4;531;130;132;137;2;1;0
+"264 /csp/dtag";8;2836;257;354;618;152;2;0
+"https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";3;423;127;141;159;13;1;0
+"https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Ftrk%3Dnav_responsive_tab_profile_pic%26id%3D155475244";1;131;131;131;131;0;0;0
+"270 /uas/login-submit";8;3792;304;474;800;169;2;0
+"273 /csp/dtag";4;1216;214;304;467;96;1;0
+"https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Ftrk%3Dnav_responsive_tab_profile_pic%26id%3D155475244";1;338;338;338;338;0;0;0
+"http://linkedin.com/";4;1926;156;481;808;325;1;0
+"https://www.linkedin.com/csp/dtag?p=10";12;1624;123;135;157;11;2;0
+"https://www.linkedin.com/";4;2060;271;515;763;231;1;0
+"https://www.linkedin.com/img/spacer.gif";12;1986;88;165;459;106;2;0

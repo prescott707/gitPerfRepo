@@ -1,16 +1,18 @@
 uri;count;total;min;average;max;standarddeviation;persecond;errors
-"https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";4;30651;7653;7662;7690;15;1;0
+"https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";3;23021;7654;7673;7693;15;1;0
 "277 /csp/dtag";4;4177;898;1044;1093;84;1;0
 "https://www.linkedin.com/profile/view?id=155475244&trk=nav_responsive_tab_profile_pic";4;5940;1485;1485;1485;0;1;0
-"275 /uas/logout";8;88727;9841;11090;12406;1239;2;0
-"261 /";8;80250;10030;10031;10032;0;1;0
-"274 /profile/view";8;85422;10668;10677;10705;15;2;0
+"275 /uas/logout";8;88891;9824;11111;12426;1240;2;0
+"261 /";8;80244;10030;10030;10031;0;1;0
+"274 /profile/view";8;85508;10669;10688;10708;13;2;0
 "276 /csp/dtag";4;5724;1431;1431;1431;0;1;0
 "264 /csp/dtag";8;9016;1127;1127;1127;0;2;0
-"https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";4;6120;1530;1530;1530;0;1;0
-"270 /uas/login-submit";8;93566;11185;11695;12321;503;2;0
-"273 /csp/dtag";4;3982;898;995;1093;97;1;0
+"https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic";3;4590;1530;1530;1530;0;1;0
+"https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Ftrk%3Dnav_responsive_tab_profile_pic%26id%3D155475244";1;1530;1530;1530;1530;0;0;0
+"270 /uas/login-submit";8;94256;11214;11782;12344;546;2;0
+"273 /csp/dtag";4;4372;1093;1093;1093;0;1;0
+"https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Ftrk%3Dnav_responsive_tab_profile_pic%26id%3D155475244";1;7673;7673;7673;7673;0;0;0
 "http://linkedin.com/";4;1092;273;273;273;0;1;0
 "https://www.linkedin.com/csp/dtag?p=10";12;6292;513;524;547;16;2;0
-"https://www.linkedin.com/";4;39033;9757;9758;9759;0;1;0
-"https://www.linkedin.com/img/spacer.gif";12;6375;385;531;580;84;2;0
+"https://www.linkedin.com/";4;39030;9757;9757;9758;0;1;0
+"https://www.linkedin.com/img/spacer.gif";12;6765;385;563;580;53;2;0

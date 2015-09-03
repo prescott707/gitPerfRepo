@@ -2,21 +2,20 @@
   "performanceData":
   [
     {
-      "min": 86,
-      "max": 1352,
-      "quantile90": 673,
-      "average": 352,
+      "min": 88,
+      "max": 1609,
+      "quantile90": 715,
+      "average": 378,
       "total": 96,
       "statusCodes":{
-                      "304": 6,
-                      "200": 66,
+                      "304": 2,
+                      "200": 70,
                       "301": 4,
                       "302": 20
                     },
       "uriByStatusCode":{
                           "304": [
                                   "277 /csp/dtag",
-                                  "273 /csp/dtag",
                                   "https://www.linkedin.com/img/spacer.gif"
                                  ],
                           "200": [
@@ -27,6 +26,7 @@
                                   "274 /profile/view",
                                   "276 /csp/dtag",
                                   "273 /csp/dtag",
+                                  "https://www.linkedin.com/start/join?trk=login_reg_redirect&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fview%3Ftrk%3Dnav_responsive_tab_profile_pic%26id%3D155475244",
                                   "264 /csp/dtag",
                                   "270 /uas/login-submit",
                                   "https://www.linkedin.com/",
@@ -38,6 +38,7 @@
                           "302": [
                                   "https://www.linkedin.com/profile/view?id=155475244&trk=nav_responsive_tab_profile_pic",
                                   "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Fid%3D155475244%26trk%3Dnav_responsive_tab_profile_pic",
+                                  "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fprofile%2Fview%3Ftrk%3Dnav_responsive_tab_profile_pic%26id%3D155475244",
                                   "https://www.linkedin.com/csp/dtag?p=10"
                                  ]
                         }
